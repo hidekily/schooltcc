@@ -129,7 +129,7 @@ body{
 }
 
 #insta{
-    background-image: url('/codes/pics/instagram.png');
+    background-image: url('https://cdn-icons-png.flaticon.com/512/3670/3670125.png');
     background-size: cover;
 
     width: 40px;
@@ -137,7 +137,7 @@ body{
 }
 
 #tt{
-    background-image: url('/codes/pics/twitter.png');
+    background-image: url('https://cdn-icons-png.flaticon.com/512/3670/3670211.png');
     background-size: cover;
 
     width: 40px;
@@ -334,7 +334,7 @@ body{
     }
     #pok{
         font-size: 1.6em;
-        margin-bottom: 12%;
+        margin-bottom: 5%;
     }
     #col1{
         gap: 1.5rem;
